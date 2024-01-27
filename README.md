@@ -1,6 +1,6 @@
 # Weather-App
 <p align="center">
-Weather App project i saw on youtube
+Weather App project i saw on youtube and improved
 </p>
 
 <p align="center">
